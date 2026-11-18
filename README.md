@@ -1,4 +1,4 @@
-# markdown-practice
+
 # How I Keep a File Out of GitHub
 
 Sometimes I want to keep a file on my computer without uploading it to GitHub. Here is how I can do that with Git.
