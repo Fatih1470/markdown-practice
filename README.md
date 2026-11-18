@@ -35,3 +35,5 @@ Git shows **two exclamation marks** next to an ignored file.
 | --- | --- |
 | `.gitignore` | I commit this file and push it to GitHub. |
 | `cachefile` | Git ignores it when I run `git add .`. |
+
+[Read more about ignored files in the Git documentation](https://git-scm.com/docs/gitignore)
