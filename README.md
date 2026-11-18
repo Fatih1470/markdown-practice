@@ -20,6 +20,7 @@ Sometimes I want to keep a file on my computer without uploading it to GitHub. H
 ```bash
 echo cachefile >> .gitignore
 touch cachefile
+git status --short --ignored
 
 ```
 
